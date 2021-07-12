@@ -16,16 +16,16 @@
 
 <br>
 
-  <a href="https://in.linkedin.com/in/TheDudeThatCode">
+  <a href="https://www.linkedin.com/in/santiago-ceballos-deossa-5410421b8/">
     <img align="left" alt="Shubhamdeep Jha | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
   </a>
-  <a href="https://twitter.com/TheDudeThatCode">
+  <a href="https://twitter.com/tiagoceballosz1">
     <img align="left" alt="Shubhamdeep Jha | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
   </a>
-  <a href="https://www.instagram.com/thedudethatcode/">
+  <a href="https://www.instagram.com/santiago_ceballoz/">
     <img align="left" alt="Shubhamdeep Jha | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
   </a>
-  <a href="mailto:shubhamdeepjha@gmail.com">
+  <a href="mailto:santiceballos67@gmail.com">
     <img align="left" alt="Shubhamdeep Jha | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
   </a>
 
