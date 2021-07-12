@@ -12,10 +12,16 @@
 <br>
 
 
-![THEGLUM github stats](https://github-readme-stats.vercel.app/api?username=THEGLUM&show_icons=true&hide_border=true)
+**Github Stats:**
 
+<p align="left">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=THEGLUM&hide=stars&show_icons=true&theme=dracula&line_height=32">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=THEGLUM&count_private=true&theme=dracula">
+
+</p>
 <br>
-
+  
   <a href="https://www.linkedin.com/in/santiago-ceballos-deossa-5410421b8/">
     <img align="left" alt="Shubhamdeep Jha | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
   </a>
