@@ -4,7 +4,7 @@
 
 <p>
   <em>
-    texto de mi
+    soy un programador junior con buenas bases de programacion y dispuesto a cualquier reto
   </em>  
 </p>
 
@@ -31,4 +31,3 @@
 
 <br><br><br><br>
 
-**⭐️ From [TheDudeThatCode](https://github.com/TheDudeThatCode)**
