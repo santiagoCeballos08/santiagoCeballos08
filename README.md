@@ -28,7 +28,8 @@
 
 **Github Stats:**
 
-  <img src="https://github-readme-stats.vercel.app/api?username=THEGLUM&hide=stars&show_icons=true&theme=dracula&line_height=32"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=THEGLUM&count_private=true&theme=dracula"> 
+ ![THEGLUM](https://github-readme-stats.vercel.app/api?username=THEGLUM&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=THEGLUM&count_private=true&theme=tokyonight"> 
   
 ---
 ## conectate conmigo: <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
