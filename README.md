@@ -4,9 +4,9 @@
 
 <p>
   <em>
-    soy un programador junior con buenas bases de programacion, actualmente tengo 20 años de edad, responsable, me gusta trabajar en equipo para dar un buen ambiente, 
+    soy un programador junior con buenas bases de programacion, actualmente tengo 22 años de edad, responsable, me gusta trabajar en equipo para dar un buen ambiente, 
     tengo conocimiento en desarrollo web y movil.
-    mi especialidad es el diseño movil y web, en mis tiempos libre me encanta la musica y ver series
+    mi especialidad es el diseño movil y web, en mis tiempos libre me encanta la musica y ver series de ciencia ficcion
   </em>  
 </p>
 
@@ -29,9 +29,6 @@
 
 **Github Stats:**
 
- ![THEGLUM](https://github-readme-stats.vercel.app/api?username=THEGLUM&show_icons=true&theme=tokyonight)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=THEGLUM&count_private=true&theme=tokyonight"> 
-  
 ---
 ## conectate conmigo: <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
 
