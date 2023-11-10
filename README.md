@@ -1,13 +1,10 @@
-# santiago ceballos  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px" height="30">
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Santiago%20Cebllos&fontSize=80)
 
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" height="24px"> hola mundo !&nbsp; <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px" height="24px" >
+
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" height="24px"> Hola Mundo !&nbsp; <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px" height="24px" >
 
 <p>
-  <em>
-    soy un programador junior con buenas bases de programacion, actualmente tengo 22 años de edad, responsable, me gusta trabajar en equipo para dar un buen ambiente, 
-    tengo conocimiento en desarrollo web y movil.
-    mi especialidad es el diseño movil y web, en mis tiempos libre me encanta la musica y ver series de ciencia ficcion
-  </em>  
+   👋 Soy un programador junior con actualmente tengo 2 años de experiencia en desarrollo web y movil, a mis 22 años de edad, soy responsable, me gusta trabajar en equipo para dar un buen ambiente y el 100% de mis capacidades 🚀, me gusta mucho la ciencia ficcion y los comics, y mi pelis favoritas son las de marvel 🦸🏽‍♂️💥 la musica es uno de mis principales motivaciones 🎶❤️ junto con los videos juegos 🎮
 </p>
 
 
@@ -17,14 +14,22 @@
 **lenguajes y Herramientas:** 
 
 
-<code><a href="https://developer.mozilla.org/es/docs/Web/HTML/Element/html"><img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></a></code>
-<code><a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank"><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></a></code>
-<code><a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank"><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></a></code>
-<code><a href="https://getbootstrap.com/" target="_blank"><img height="50"                                                     src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></a></code>
-<code><a href="https://es.reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
-<code><a href="https://code.visualstudio.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg"></a></code>
-<code><a href="https://code.visualstudio.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>
-<code><a href="https://firebase.google.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></a></code>
+<a href="https://nodejs.org/en"><img height="50" src="https://skillicons.dev/icons?i=nodejs"></a>
+<a href="https://www.php.net/"><img height="50" src="https://skillicons.dev/icons?i=php"></a>
+<a href="https://developer.mozilla.org/es/docs/Web/HTML/Element/html"><img height="50" src="https://skillicons.dev/icons?i=html"></a>
+<a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank"><img height="50" src="https://skillicons.dev/icons?i=css"></a>
+<a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank"><img height="50" src="https://skillicons.dev/icons?i=js"></a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img height="50" src="https://skillicons.dev/icons?i=ts"></a>
+<a href="https://getbootstrap.com/" target="_blank"><img height="50" src="https://skillicons.dev/icons?i=bootstrap"></a>
+<a href="https://es.reactjs.org/" target="_blank"><img height="50" src="https://skillicons.dev/icons?i=react"></a>
+<a href="https://code.visualstudio.com/" target="_blank"><img height="50" src="https://skillicons.dev/icons?i=git"></a>
+<a href="https://firebase.google.com/" target="_blank"><img height="50" src="https://skillicons.dev/icons?i=firebase"></a>
+<a href="https://tailwindcss.com/" target="_blank"><img height="50" src="https://skillicons.dev/icons?i=tailwind"></a>
+<a href="https://flutter.dev/" target="_blank"><img height="50" src="https://skillicons.dev/icons?i=flutter"></a>
+<a href="https://flutter.dev/" target="_blank"><img height="50" src="https://skillicons.dev/icons?i=figma"></a>
+<a href="https://flutter.dev/" target="_blank"><img height="50" src="https://skillicons.dev/icons?i=docker"></a>
+
+
 
 
 **Github Stats:**
