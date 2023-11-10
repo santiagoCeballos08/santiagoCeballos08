@@ -1,10 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Santiago%20Ceballos&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Desarrollador%20FullStack&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Código%20con%20❤️&descAlignY=60&descAlign=87)
 
 
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" height="24px"> Hola Mundo !&nbsp; <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px" height="24px" >
 
 <p>
-   👋 Soy un programador junior con actualmente tengo 2 años de experiencia en desarrollo web y movil, a mis 22 años de edad, soy responsable, me gusta trabajar en equipo para dar un buen ambiente y el 100% de mis capacidades 🚀, me gusta mucho la ciencia ficcion y los comics, y mi pelis favoritas son las de marvel 🦸🏽‍♂️💥 la musica es uno de mis principales motivaciones 🎶❤️ junto con los videos juegos 🎮
+  👋 Soy un programador junior con actualmente tengo 2 años de experiencia en desarrollo web y móvil a mis 22 años de edad, soy responsable, me gusta trabajar en equipo para dar un buen ambiente y el 100% de mis capacidades 🚀, me gusta mucho la ciencia ficción los comics, y mi pelis favoritas son las de Marvel 🦸🏽‍♂️💥 la música es uno de mis principales motivaciones 🎶❤️ junto con los videos juegos 🎮
 </p>
 
 
