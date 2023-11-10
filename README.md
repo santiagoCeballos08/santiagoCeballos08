@@ -11,7 +11,7 @@
 <br>
 
 ---
-**lenguajes y Herramientas:** 
+**Lenguajes y Herramientas:** 
 
 
 <a target="_blank" href="https://nodejs.org/en"><img height="50" src="https://skillicons.dev/icons?i=nodejs"></a>
