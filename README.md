@@ -36,7 +36,7 @@
 **Github Stats:**
 
 ---
-## conectate conmigo: <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
+## Conéctate conmigo: <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
 
 <p align="center">
   <a href="https://www.linkedin.com/in/santiago-ceballos-deossa-5410421b8/">
