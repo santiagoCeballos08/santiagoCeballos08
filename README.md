@@ -14,20 +14,21 @@
 **lenguajes y Herramientas:** 
 
 
-<a href="https://nodejs.org/en"><img height="50" src="https://skillicons.dev/icons?i=nodejs"></a>
-<a href="https://www.php.net/"><img height="50" src="https://skillicons.dev/icons?i=php"></a>
-<a href="https://developer.mozilla.org/es/docs/Web/HTML/Element/html"><img height="50" src="https://skillicons.dev/icons?i=html"></a>
-<a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank"><img height="50" src="https://skillicons.dev/icons?i=css"></a>
-<a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank"><img height="50" src="https://skillicons.dev/icons?i=js"></a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img height="50" src="https://skillicons.dev/icons?i=ts"></a>
-<a href="https://getbootstrap.com/" target="_blank"><img height="50" src="https://skillicons.dev/icons?i=bootstrap"></a>
-<a href="https://es.reactjs.org/" target="_blank"><img height="50" src="https://skillicons.dev/icons?i=react"></a>
-<a href="https://code.visualstudio.com/" target="_blank"><img height="50" src="https://skillicons.dev/icons?i=git"></a>
-<a href="https://firebase.google.com/" target="_blank"><img height="50" src="https://skillicons.dev/icons?i=firebase"></a>
-<a href="https://tailwindcss.com/" target="_blank"><img height="50" src="https://skillicons.dev/icons?i=tailwind"></a>
-<a href="https://flutter.dev/" target="_blank"><img height="50" src="https://skillicons.dev/icons?i=flutter"></a>
-<a href="https://flutter.dev/" target="_blank"><img height="50" src="https://skillicons.dev/icons?i=figma"></a>
-<a href="https://flutter.dev/" target="_blank"><img height="50" src="https://skillicons.dev/icons?i=docker"></a>
+<a target="_blank" href="https://nodejs.org/en"><img height="50" src="https://skillicons.dev/icons?i=nodejs"></a>
+<a target="_blank" href="https://www.php.net/"><img height="50" src="https://skillicons.dev/icons?i=php"></a>
+<a target="_blank" href="https://developer.mozilla.org/es/docs/Web/HTML/Element/html"><img height="50" src="https://skillicons.dev/icons?i=html"></a>
+<a target="_blank" href="https://developer.mozilla.org/es/docs/Web/CSS" ><img height="50" src="https://skillicons.dev/icons?i=css"></a>
+<a target="_blank" href="https://developer.mozilla.org/es/docs/Web/JavaScript" ><img height="50" src="https://skillicons.dev/icons?i=js"></a>
+<a target="_blank" href="https://www.typescriptlang.org/" ><img height="50" src="https://skillicons.dev/icons?i=ts"></a>
+<a target="_blank" href="https://getbootstrap.com/" ><img height="50" src="https://skillicons.dev/icons?i=bootstrap"></a>
+<a target="_blank" href="https://www.mysql.com/" ><img height="50" src="https://skillicons.dev/icons?i=mysql"></a>
+<a target="_blank" href="https://es.reactjs.org/" ><img height="50" src="https://skillicons.dev/icons?i=react"></a>
+<a target="_blank" href="https://code.visualstudio.com/" ><img height="50" src="https://skillicons.dev/icons?i=git"></a>
+<a target="_blank" href="https://firebase.google.com/" ><img height="50" src="https://skillicons.dev/icons?i=firebase"></a>
+<a target="_blank" href="https://tailwindcss.com/" ><img height="50" src="https://skillicons.dev/icons?i=tailwind"></a>
+<a target="_blank" href="https://flutter.dev/" ><img height="50" src="https://skillicons.dev/icons?i=flutter"></a>
+<a target="_blank" href="https://www.figma.com/" ><img height="50" src="https://skillicons.dev/icons?i=figma"></a>
+<a target="_blank" href="https://www.docker.com/" ><img height="50" src="https://skillicons.dev/icons?i=docker"></a>
 
 
 
