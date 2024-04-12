@@ -19,12 +19,13 @@
 <a target="_blank" href="https://developer.mozilla.org/es/docs/Web/HTML/Element/html"><img height="50" src="https://skillicons.dev/icons?i=html"></a>
 <a target="_blank" href="https://developer.mozilla.org/es/docs/Web/CSS" ><img height="50" src="https://skillicons.dev/icons?i=css"></a>
 <a target="_blank" href="https://developer.mozilla.org/es/docs/Web/JavaScript" ><img height="50" src="https://skillicons.dev/icons?i=js"></a>
+<a target="_blank" href="https://vuejs.org/" ><img height="50" src="https://skillicons.dev/icons?i=vue"></a>
 <a target="_blank" href="https://www.typescriptlang.org/" ><img height="50" src="https://skillicons.dev/icons?i=ts"></a>
 <a target="_blank" href="https://getbootstrap.com/" ><img height="50" src="https://skillicons.dev/icons?i=bootstrap"></a>
 <a target="_blank" href="https://www.mysql.com/" ><img height="50" src="https://skillicons.dev/icons?i=mysql"></a>
-<a target="_blank" href="https://es.reactjs.org/" ><img height="50" src="https://skillicons.dev/icons?i=react"></a>
+<a target="_blank" href="https://laravel.com/" ><img height="50" src="https://skillicons.dev/icons?i=laravel"></a>
 <a target="_blank" href="https://code.visualstudio.com/" ><img height="50" src="https://skillicons.dev/icons?i=git"></a>
-<a target="_blank" href="https://firebase.google.com/" ><img height="50" src="https://skillicons.dev/icons?i=firebase"></a>
+<a target="_blank" href="https://angular.dev/" ><img height="50" src="https://skillicons.dev/icons?i=angular"></a>
 <a target="_blank" href="https://tailwindcss.com/" ><img height="50" src="https://skillicons.dev/icons?i=tailwind"></a>
 <a target="_blank" href="https://flutter.dev/" ><img height="50" src="https://skillicons.dev/icons?i=flutter"></a>
 <a target="_blank" href="https://www.figma.com/" ><img height="50" src="https://skillicons.dev/icons?i=figma"></a>
