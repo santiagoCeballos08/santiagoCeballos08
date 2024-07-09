@@ -4,7 +4,7 @@
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" height="24px"> Hola Mundo !&nbsp; <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px" height="24px" >
 
 <p>
-  👋 Soy un programador junior con actualmente tengo 2 años de experiencia en desarrollo web y móvil a mis 22 años de edad, soy responsable, me gusta trabajar en equipo para dar un buen ambiente y el 100% de mis capacidades 🚀, me gusta mucho la ciencia ficción los comics, y mi pelis favoritas son las de Marvel 🦸🏽‍♂️💥 la música es uno de mis principales motivaciones 🎶❤️ junto con los videos juegos 🎮
+  👋 Soy un programador junior con actualmente tengo 2 años de experiencia en desarrollo web y móvil a mis 23 años de edad, soy responsable, me gusta trabajar en equipo para dar un buen ambiente y el 100% de mis capacidades 🚀, me gusta mucho la ciencia ficción los comics, y mi pelis favoritas son las de Marvel 🦸🏽‍♂️💥 la música es uno de mis principales motivaciones 🎶❤️ junto con los videos juegos 🎮
 </p>
 
 
