@@ -4,7 +4,9 @@
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" height="24px"> Hola Mundo !&nbsp; <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px" height="24px" >
 
 <p>
-  👋 Soy un programador junior con actualmente tengo más 2 años de experiencia en desarrollo web y móvil a mis 23 años de edad, soy responsable, me gusta trabajar en equipo para dar un buen ambiente y el 100% de mis capacidades 🚀, me gusta mucho la ciencia ficción los comics, y mi pelis favoritas son las de Marvel 🦸🏽‍♂️💥 la música es uno de mis principales motivaciones 🎶❤️ junto con los videos juegos 🎮
+I am a junior fullstack developer with more than 3 years of experience in the field, passionate about technology. I am looking for dynamic and challenging environments to combine my creativity and technical skills in the creation of web applications or mobile applications.
+My goal is to contribute to the development team innovative solutions that merge an intuitive and attractive user interface with a robust backend. I always seek to integrate best practices and deliver projects with the best quality.
+In addition, I have a high capacity for autonomous learning. This allows me to keep up to date with the latest technology trends and adapt quickly to new environments.
 </p>
 
 
