@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Developer%20FullStack&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Code%20whit%20❤️&descAlignY=60&descAlign=87)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Developer%20FullStack&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Code%20with%20❤️&descAlignY=60&descAlign=87)
 
 
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" height="24px"> Hola Mundo !&nbsp; <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px" height="24px" >
@@ -44,7 +44,7 @@ In addition, I have a high capacity for autonomous learning. This allows me to k
 **Github Stats:**
 
 ---
-## Conéctate conmigo: <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
+## connect with me: <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
 
 <p align="center">
   <a href="https://www.linkedin.com/in/santiago-ceballos-deossa-5410421b8/">
