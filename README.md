@@ -13,6 +13,11 @@ In addition, I have a high capacity for autonomous learning. This allows me to k
 <br>
 
 ---
+
+### my Portfolio ♥ 💻
+<a target="_blank" href="https://portafolio-personal-ten-virid.vercel.app/">Proyects and jobs</a>
+
+---
 **Lenguajes y Herramientas:** 
 
 
